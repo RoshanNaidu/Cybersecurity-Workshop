@@ -84,7 +84,8 @@ Successfully cleared three hacking tasks in picoCTF and retrieved the flag:
 
 ### Cracking a Password via SQL Injection: Demonstrated how SQL injection can be used to bypass authentication mechanisms.
 - Used SQL queries to make an illusion for the website.
-The website thought that the query was complete with ';' but in reality, it was not.
+- The website thought that the query was complete with ';' but in reality, it was not.
+- Injected queries as such that they can break through the filters applied on the website.
 - After Round 5, checked the other .php file for the flag.
 ![Screenshot 2024-07-14 at 4 58 00 PM](https://github.com/user-attachments/assets/b50a7dd3-80ea-40c9-9ff8-ba12d004b28b)
 ![Screenshot 2024-07-14 at 5 02 11 PM](https://github.com/user-attachments/assets/8781d34d-b9a0-4b8a-9983-0fbaa51dc5d1)
@@ -94,7 +95,7 @@ The website thought that the query was complete with ';' but in reality, it was 
 
 
 ### Manipulating JSON Web Tokens: Used the JWT toolkit and JWT.io to manipulate and exploit JWTs.
-- Can be done either using JWT toolkit OR Edit JWT Online
+- Can be done either using the JWT toolkit OR Edit JWT Online
 - Retrieved JWT token from Cookies present in the Application part of the Inspection page.
 - Used the JWT token to see what it means with JWT.io.
 - Manipulated the JWT token with Edit JWT Online.
