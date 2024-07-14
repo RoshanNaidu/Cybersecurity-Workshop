@@ -75,12 +75,17 @@ Online editor for a JWT token to use the "none" algorithm by Gavin Johnson-Lynn.
 Successfully cleared three hacking tasks in picoCTF and retrieved the flag:
 
 ### Accessing Disallowed Sites: Used a robots.txt file to gain access to a disallowed site.
+- Accessed the disallowed site by getting the address from robots.txt.
+- Captured the flag.
 ![Screenshot 2024-07-10 at 2 13 12 PM](https://github.com/user-attachments/assets/d32cc24b-c5f9-4dbb-8c06-34e5373d4d6d)
 ![Screenshot 2024-07-10 at 2 16 50 PM 1](https://github.com/user-attachments/assets/c43079e5-b1cc-48fc-8f1c-441ae1558b0c)
 ![Screenshot 2024-07-10 at 2 17 32 PM](https://github.com/user-attachments/assets/bd603071-b7db-4d00-9af5-664556c41821)
 ![Screenshot 2024-07-10 at 2 19 44 PM](https://github.com/user-attachments/assets/8f146b71-c3db-4666-aeb4-27ddfb9c691c)
 
 ### Cracking a Password via SQL Injection: Demonstrated how SQL injection can be used to bypass authentication mechanisms.
+- Used SQL queries to make an illusion for the website.
+The website thought that the query was complete with ';' but in reality, it was not.
+- After Round 5, checked the other .php file for the flag.
 ![Screenshot 2024-07-14 at 4 58 00 PM](https://github.com/user-attachments/assets/b50a7dd3-80ea-40c9-9ff8-ba12d004b28b)
 ![Screenshot 2024-07-14 at 5 02 11 PM](https://github.com/user-attachments/assets/8781d34d-b9a0-4b8a-9983-0fbaa51dc5d1)
 ![Screenshot 2024-07-14 at 5 02 12 PM](https://github.com/user-attachments/assets/749e05ac-bfaf-455f-94b2-2f2e496e7131)
@@ -89,6 +94,11 @@ Successfully cleared three hacking tasks in picoCTF and retrieved the flag:
 
 
 ### Manipulating JSON Web Tokens: Used the JWT toolkit and JWT.io to manipulate and exploit JWTs.
+- Can be done either using JWT toolkit OR Edit JWT Online
+- Retrieved JWT token from Cookies present in the Application part of the Inspection page.
+- Used the JWT token to see what it means with JWT.io.
+- Manipulated the JWT token with Edit JWT Online.
+- Logged in as Admin and captured the flag.
 ![Screenshot 2024-07-14 at 7 05 29 PM](https://github.com/user-attachments/assets/5982c821-9085-4959-a69d-660f6800ce78)
 <img width="1439" alt="Screenshot 2024-07-14 at 7 12 20 PM" src="https://github.com/user-attachments/assets/899b760d-743c-4925-a5ad-bf67e4d2b32a">
 ![Screenshot 2024-07-14 at 7 16 43 PM](https://github.com/user-attachments/assets/b0b8fe90-94d8-4315-aa61-22a2029fe78d)
