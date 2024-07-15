@@ -101,7 +101,7 @@ Successfully cleared three hacking tasks in picoCTF and retrieved the flag:
 - Manipulated the JWT token with Edit JWT Online.
 - Logged in as Admin and captured the flag.
 ![Screenshot 2024-07-14 at 7 05 29 PM](https://github.com/user-attachments/assets/5982c821-9085-4959-a69d-660f6800ce78)
-<img width="1439" alt="Screenshot 2024-07-14 at 7 12 20 PM" src="https://github.com/user-attachments/assets/899b760d-743c-4925-a5ad-bf67e4d2b32a">
+![Screenshot 2024-07-14 at 7 12 20 PM"](https://github.com/user-attachments/assets/899b760d-743c-4925-a5ad-bf67e4d2b32a)
 ![Screenshot 2024-07-14 at 7 16 43 PM](https://github.com/user-attachments/assets/b0b8fe90-94d8-4315-aa61-22a2029fe78d)
 ![Screenshot 2024-07-14 at 7 17 42 PM](https://github.com/user-attachments/assets/9a8fb8bb-f603-4ea4-bee8-24d42e65e93c)
 ![Screenshot 2024-07-14 at 7 26 28 PM](https://github.com/user-attachments/assets/9f5043e4-8965-4028-a917-98f7e3b8dfa9)
